@@ -667,9 +667,9 @@ body {
 .flower__g-fr__leaf--1 {
   left: 20vmin;
   transform: rotate(45deg);
-  animation: flower__g-fr-leaft-ans-1 0.5s 5.2s linear backwards;
+  animation: flower__g-fr-leaf-ans-1 0.5s 5.2s linear backwards;
 }
-@keyframes flower__g-fr-leaft-ans-1 {
+@keyframes flower__g-fr-leaf-ans-1 {
   0% {
     transform-origin: left;
     transform: rotate(45deg) scale(0);
@@ -679,27 +679,27 @@ body {
   left: 12vmin;
   top: -7vmin;
   transform: rotate(25deg) rotateY(-180deg);
-  animation: flower__g-fr-leaft-ans-6 0.5s 5s linear backwards;
+  animation: flower__g-fr-leaf-ans-6 0.5s 5s linear backwards;
 }
 .flower__g-fr__leaf--3 {
   left: 15vmin;
   top: 6vmin;
   transform: rotate(55deg);
-  animation: flower__g-fr-leaft-ans-5 0.5s 4.8s linear backwards;
+  animation: flower__g-fr-leaf-ans-5 0.5s 4.8s linear backwards;
 }
 .flower__g-fr__leaf--4 {
   left: 6vmin;
   top: -2vmin;
   transform: rotate(25deg) rotateY(-180deg);
-  animation: flower__g-fr-leaft-ans-6 0.5s 4.6s linear backwards;
+  animation: flower__g-fr-leaf-ans-6 0.5s 4.6s linear backwards;
 }
 .flower__g-fr__leaf--5 {
   left: 10vmin;
   top: 14vmin;
   transform: rotate(55deg);
-  animation: flower__g-fr-leaft-ans-5 0.5s 4.4s linear backwards;
+  animation: flower__g-fr-leaf-ans-5 0.5s 4.4s linear backwards;
 }
-@keyframes flower__g-fr-leaft-ans-5 {
+@keyframes flower__g-fr-leaf-ans-5 {
   0% {
     transform-origin: left;
     transform: rotate(55deg) scale(0);
@@ -709,9 +709,9 @@ body {
   left: 0vmin;
   top: 6vmin;
   transform: rotate(25deg) rotateY(-180deg);
-  animation: flower__g-fr-leaft-ans-6 0.5s 4.2s linear backwards;
+  animation: flower__g-fr-leaf-ans-6 0.5s 4.2s linear backwards;
 }
-@keyframes flower__g-fr-leaft-ans-6 {
+@keyframes flower__g-fr-leaf-ans-6 {
   0% {
     transform-origin: right;
     transform: rotate(25deg) rotateY(-180deg) scale(0);
@@ -721,9 +721,9 @@ body {
   left: 5vmin;
   top: 22vmin;
   transform: rotate(45deg);
-  animation: flower__g-fr-leaft-ans-7 0.5s 4s linear backwards;
+  animation: flower__g-fr-leaf-ans-7 0.5s 4s linear backwards;
 }
-@keyframes flower__g-fr-leaft-ans-7 {
+@keyframes flower__g-fr-leaf-ans-7 {
   0% {
     transform-origin: left;
     transform: rotate(45deg) scale(0);
@@ -733,9 +733,9 @@ body {
   left: -4vmin;
   top: 15vmin;
   transform: rotate(15deg) rotateY(-180deg);
-  animation: flower__g-fr-leaft-ans-8 0.5s 3.8s linear backwards;
+  animation: flower__g-fr-leaf-ans-8 0.5s 3.8s linear backwards;
 }
-@keyframes flower__g-fr-leaft-ans-8 {
+@keyframes flower__g-fr-leaf-ans-8 {
   0% {
     transform-origin: right;
     transform: rotate(15deg) rotateY(-180deg) scale(0);
