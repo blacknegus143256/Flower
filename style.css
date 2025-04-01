@@ -33,13 +33,13 @@ body {
 .container{display: inline-block;}
 
 @media screen and (min-width: 601px) {
-.text {
+.night {
   font-size: 80px;
 }
 }
 
 @media screen and (max-width: 600px) {
-.text {
+.night {
   font-size: 30px;
 }
 }
